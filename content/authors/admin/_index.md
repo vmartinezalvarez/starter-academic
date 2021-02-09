@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.com/citations?user=ue-Jg6AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/vmartinezalvarez
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vmartinezalvarez/
