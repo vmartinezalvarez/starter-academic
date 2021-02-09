@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Theoretical and Computational Physics
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
