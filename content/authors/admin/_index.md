@@ -30,7 +30,7 @@ education:
     year:
   - course: BSc in Physics
     institution: University of Havana
-    year: 2008
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
