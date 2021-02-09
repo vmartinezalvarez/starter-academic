@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Theoretical and Computational Physics
     institution: Federal University of Pernambuco
-    year: 2012
+    year:
   - course: BSc in Physics
     institution: University of Havana
     year: 2008
