@@ -11,8 +11,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: "https://doi.org/10.1103/PhysRevB.97.121401"
@@ -33,7 +31,7 @@ publication_short: In *ICW*
 abstract: Capital to topological insulators, the bulk-boundary correspondence ties a topological invariant computed from the bulk (extended) states with those at the boundary, which are hence robust to disorder. Here we put forward a different ordering unique to non-Hermitian lattices whereby a pristine system becomes devoid of extended states, a property which turns out to be robust to disorder. This is enabled by a peculiar type of non-Hermitian degeneracy where a macroscopic fraction of the states coalesce at a single point with a geometrical multiplicity of 1.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Capital to topological insulators, the bulk-boundary correspondence ties a topological invariant computed from the bulk (extended) states with those at the boundary, which are hence robust to disorder. Here we put forward a different ordering unique to non-Hermitian lattices whereby a pristine system becomes devoid of extended states, a property which turns out to be robust to disorder. This is enabled by a peculiar type of non-Hermitian degeneracy where a macroscopic fraction of the states coalesce at a single point with a geometrical multiplicity of 1.
 
 tags: []
 
