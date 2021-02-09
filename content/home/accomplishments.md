@@ -33,12 +33,12 @@ item:
   url: "https://www.coursera.org/learn/neural-networks-deep-learning"
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UELAD5SFTDUT
   date_end: ""
-  date_start: "2018"
+  date_start: "2018-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Machine Learning
-  url: "https://www.coursera.org/learn/neural-networks-deep-learning"
+  url: "https://www.coursera.org/learn/machine-learning"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
