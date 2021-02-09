@@ -10,7 +10,7 @@ role:  Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physics - Northeastern University
+- name: Department of Physics Northeastern University
   url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
