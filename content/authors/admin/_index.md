@@ -11,16 +11,16 @@ role:  Postdoctoral Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Department of Physics - Northeastern University
-  url: https://www.stanford.edu/
+  url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physical Genomics
+- Machine Learning
+- Data Science
 
 # Education to show in About widget
 education:
