@@ -10,7 +10,7 @@ role:  Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Physics - College of Science at Northeastern University
+- name: Department of Physics - Northeastern University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,13 +26,10 @@ interests:
 education:
   courses:
   - course: PhD in Theoretical and Computational Physics
-    institution: Stanford University
+    institution: Federal University of Pernambuco
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Physics
+    institution: University of Havana
     year: 2008
 
 # Social/Academic Networking
@@ -48,7 +45,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ue-Jg6AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
