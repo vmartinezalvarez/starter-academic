@@ -32,6 +32,16 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: "https://www.coursera.org/learn/neural-networks-deep-learning"
+  
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/AR75D48Z9S35
+  date_end: ""
+  date_start: "2020-10-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Convolutional Neural Networks
+  url: "https://www.coursera.org/learn/convolutional-neural-networks"
+  
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UELAD5SFTDUT
   date_end: ""
   date_start: "2018-10-01"
