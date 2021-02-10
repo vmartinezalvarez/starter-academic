@@ -49,7 +49,7 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Structuring Machine Learning Projects
-  url: "https://www.coursera.org/learn/convolutional-neural-networks"
+  url: "https://www.coursera.org/learn/machine-learning-projectss"
   
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/UELAD5SFTDUT
   date_end: ""
