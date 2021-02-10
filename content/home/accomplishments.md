@@ -33,7 +33,7 @@ item:
   title: Neural Networks and Deep Learning
   url: "https://www.coursera.org/learn/neural-networks-deep-learning"
   
- - certificate_url: https://www.coursera.org/account/accomplishments/certificate/AR75D48Z9S35
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/AR75D48Z9S35
   date_end: ""
   date_start: "2020-10-01"
   description: ""
