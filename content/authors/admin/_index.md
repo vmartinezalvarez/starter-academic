@@ -64,6 +64,5 @@ email: ""
 highlight_name: false
 ---
 
-I'm a theoretical and computational physicist, passionate about Data Science and Machine Learning techniques and its applications in solving real-world business problems. Former competitor and Gold medallist in the XI Iberoamerican Physics Olympiad, Coimbra,Portugal.
-
+I'm a theoretical and computational physicist, passionate about Data Science and Machine Learning techniques and its applications in solving real-world business problems.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
