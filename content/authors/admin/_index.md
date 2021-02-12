@@ -65,4 +65,9 @@ highlight_name: false
 ---
 
 I'm a theoretical and computational physicist, passionate about Data Science and Machine Learning techniques and its applications in solving real-world business problems.
+
+Previously, my fascination with machine learning led me to become a posdoctoral research associate working with several moderrn deep learning techniques like temporal convolutional networks (TCN) and generative adversarial networks (GAN). Specifically, my research focused on the combination of deep model-based reinforcement learning (MBRL) and neural ordinary differential equations to develop a novel algorithm that outperforms state-of-the-art methods, both in sample efficiency and predictive performance.
+
+
+In my postdoc, I had the opportunity to 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
