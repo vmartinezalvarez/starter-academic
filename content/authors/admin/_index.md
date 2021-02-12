@@ -63,7 +63,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a theoretical and computational physicist and data scientist who takes pride in building models that translate datainto business insights. Passionate about machine learning techniques and its applications in solving real-world businessproblems. Ability to work independently or as part of a team. Take a strong analytical approach to problems, and striveto understand all details.  Former competitor and Gold medallist in the XI Iberoamerican Physics Olympiad, Coimbra,Portugal.
+# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
