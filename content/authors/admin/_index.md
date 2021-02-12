@@ -66,6 +66,6 @@ highlight_name: false
 
 I'm a theoretical and computational physicist, passionate about Data Science and Machine Learning techniques and its applications in solving real-world business problems.
 
-Previously, my passion for machine learning led me to become a research associate working with several modern deep learning techniques like temporal convolutional networks (TCN), generative adversarial networks (GAN), and on the combination of deep reinforcement learning and neural ordinary differential equations for model model-based reinforcement learning.
+Previously, my passion for machine learning led me to become a research associate working with several modern deep learning techniques like temporal convolutional networks, generative adversarial networks, and on the combination of deep reinforcement learning and neural ordinary differential equations for model model-based reinforcement learning.
  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
